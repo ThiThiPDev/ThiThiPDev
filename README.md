@@ -27,7 +27,10 @@
     <img align="center" alt="Ícone do LinkedIn" height="50" width="150" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 <div/>
-          
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThiThiPDev/ThiThiPDev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
           
           
