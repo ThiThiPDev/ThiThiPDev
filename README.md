@@ -1,4 +1,7 @@
-## Olá! Eu sou o Thiago Fernandes 👨🏻‍💻
+<p align="center"> Olá! Eu sou o Thiago Fernandes 👨🏻‍💻
+
+<p align="center">Estou trilhando meu caminho como Desenvolvedor Full Stack, explorando as áreas de Ciência da Computação e Engenharia de Software. <br>Busco aprimorar continuamente minhas habilidades na criação de aplicações web, transformando aprendizado em projetos práticos. 
+<p align="center">Desde cedo, a computação faz parte da minha trajetória. Cresci em contato com computadores e, durante a adolescência, desenvolvi um  grande interesse por Desenvolvimento de software, Programação, Tecnologia da Informação (TI) e pela constante evolução na tecnologia.
 
 - 📚 Atualmente estou trabalhando com Front-end e Back-end 📚
 - 👨🏻‍🎓 Atualmente estou estudando e me formando em HTML & CSS 👨🏻‍🎓
