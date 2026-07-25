@@ -40,25 +40,25 @@
   <!-- GitHub - ícone ciano | fundo cinza -->
   <a href="https://github.com/ThiThiPDev">
     <img
-      src="https://img.shields.io/badge/GITHUB-2D2D2D?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=2D2D2D"width="210" height="60" alt="GitHub"/>
+      src="https://img.shields.io/badge/GITHUB-2D2D2D?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=2D2D2D"width="205" height="60" alt="GitHub"/>
   </a>
 
   <!-- Instagram - ícone roxo | fundo preto -->
   <a href="https://www.instagram.com/thiago_f.n/">
     <img
-      src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E519FF&labelColor=0D1117" width="210" height="60" alt="Instagram"/>
+      src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E519FF&labelColor=0D1117" width="205" height="60" alt="Instagram"/>
   </a>
 
   <!-- Email - ícone vermelho | fundo branco -->
   <a href="mailto:tf91883@gmail.com">
     <img
-      src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF&color=FFFFFF" width="210" height="60" alt="Email"/>
+      src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF&color=FFFFFF" width="205" height="60" alt="Email"/>
   </a>
 
   <!-- LinkedIn - fundo azul | escrita branca -->
   <a href="https://www.linkedin.com/in/thiago-fernandes-do-nascimento-4b8737336/">
     <img
-      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" width="210" height="60" alt="LinkedIn"/>
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" width="205" height="60" alt="LinkedIn"/>
   </a>
 
 </div>
