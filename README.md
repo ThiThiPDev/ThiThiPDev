@@ -19,40 +19,39 @@
 
 <!-- Imagem do programador pixelado / História e interesse por tecnologia -->
 
-<table width="100%">
-  <tr>
-    <td width="100%" align="left" valign="top">
-      <img src="./img/ThiThiPDev Pixelado.png" width="100%" alt="ThiThiPDev Pixelado"/>
-    </td>
-    <td width="100%" align="right" valign="middle">
-<table>
-  
-<tr>
-  <td width="450px">
-    <p align="center">
-      <sub>
-        Estou trilhando meu caminho como um Desenvolvedor Full Stack, explorando sempre as áreas de Ciência da Computação e Engenharia de Software. Busco aprimorar as minhas habilidades na criação de aplicações web, transformando aprendizado em projetos práticos e fazer deles repositórios para acompanhar a minha evolução. 
-      </sub> 
-</p>
+<div align="center">
+  <img
+    src="./img/ThiThiPDev Pixelado.png" width="100%" alt="ThiThiPDev Pixelado"/>
+</div>
 
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="450px">
+        <p align="center">
+          <sub>
+            Estou trilhando meu caminho como um Desenvolvedor Full Stack, explorando sempre as áreas de Ciência da Computação e Engenharia de Software. Busco aprimorar as minhas habilidades na criação de aplicações web, transformando aprendizado em projetos práticos e fazer deles repositórios para acompanhar a minha evolução.
+  </sub>
+</p>
+        
 <p align="center">
   <sub>
-    ⋆｡°✩ ──────────────────────────── ✩°｡⋆
+  ⋆｡°✩ ──────────────────────────── ✩°｡⋆
   </sub>
 </p>
 
 <p align="center">
   <sub>
     Desde cedo, a computação faz parte da minha vida. Cresci em contato com computadores e desenvolvi um grande interesse por Desenvolvimento de Software, Programação, Tecnologia da Informação (TI) e pelo constante desenvolvimento da tecnologia.
-  </sub>
-</p>
-
-</td>
-  </tr>
-    </table>
-    </td>
-  </tr>
+    </sub>
+   </p>
+  </td>
+</tr>
 </table>
+
+</div>
 
 <!-- =============================== -->
 <!-- Informações atuais -->
@@ -160,74 +159,4 @@
 
 
 
-<table width="100%">
-  <tr>
-
-
-
- <td align="left" valign="top">
-
-  <table>
-        <tr>
-          <td width="450px">
-
-   <p align="center">
-              <sub>
-                Estou trilhando meu caminho como um Desenvolvedor Full Stack, explorando sempre as áreas de Ciência da Computação e Engenharia de Software. Busco aprimorar as minhas habilidades na criação de aplicações web, transformando aprendizado em projetos práticos e fazer deles repositórios para acompanhar a minha evolução.
-              </sub>
-            </p>
-    <p align="center">
-              <sub>
-                ⋆｡°✩ ──────────────────────────── ✩°｡⋆
-              </sub>
-            </p>
-
-   <p align="center">
-              <sub>
-                Desde cedo, a computação faz parte da minha vida. Cresci em contato com computadores e desenvolvi um grande interesse por Desenvolvimento de Software, Programação, Tecnologia da Informação (TI) e pelo constante desenvolvimento da tecnologia.
-              </sub>
-            </p>
-
-   </td>
-   </tr>
-   </table>
-
-  </td>
-
-  
-
-   <td align="center" valign="top">
-
-  <table>
-        <tr>
-          <td width="450px">
-
-  <h3 align="center">📌 Informações atuais 📌<br><br></h3>
-
-   <p align="center">
-              <sub>
-                📚 Atualmente trabalho com Front-end e Back-end 📚 <br><br>
-              </sub>
-            </p>
-
-  <p align="center">
-              <sub>
-                👨🏻‍🎓 Atualmente estou me formando em HTML, CSS e JavaScript 👨🏻‍🎓 <br><br>
-              </sub>
-            </p>
-
-   <p align="center">
-              <sub>
-                ⚡ Curiosidades: Amo café, leitura, Naruto & Harry Potter ⚡ <br><br>
-              </sub>
-            </p>
-
-   </td>
-  </tr>
-   </table>
-
-  </td>
-
-  </tr>
-</table>
 
