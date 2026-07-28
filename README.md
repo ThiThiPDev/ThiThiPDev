@@ -17,21 +17,23 @@
   </h1>
 </div>
 
-<!-- =============================== -->
-<!-- Apresentação profissional -->
-<!-- =============================== -->
-
-<p align="center">
-Estou trilhando meu caminho como Desenvolvedor Full Stack, explorando as áreas de Ciência da Computação e Engenharia de Software.
-<br>
-Busco aprimorar continuamente minhas habilidades na criação de aplicações web, transformando aprendizado em projetos práticos.
-</p>
-
 <!-- História e interesse por tecnologia -->
 
-<p align="center">
-Desde cedo, a computação faz parte da minha trajetória. Cresci em contato com computadores e, durante a adolescência, desenvolvi um grande interesse por Desenvolvimento de software, Programação, Tecnologia da Informação (TI) e pela constante evolução na tecnologia.
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="1000px">
+        <p align="center">
+          Estou trilhando meu caminho como Desenvolvedor Full Stack, explorando as áreas de Ciência da Computação e Engenharia de Software.
+          <br>
+          Busco aprimorar continuamente minhas habilidades na criação de aplicações web, transformando aprendizado em projetos práticos.
+          <br><br>
+          Desde cedo, a computação faz parte da minha trajetória. Cresci em contato com computadores e, durante a adolescência, desenvolvi um grande interesse por Desenvolvimento de software, Programação, Tecnologia da Informação (TI) e pela constante evolução na tecnologia.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- =============================== -->
 <!-- Informações atuais -->
