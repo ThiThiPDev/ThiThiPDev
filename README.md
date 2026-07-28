@@ -25,7 +25,7 @@
       <td width="450px">
         <p align="center">
           <sub>
-            Estou trilhando meu caminho como um Desenvolvedor Full Stack, explorando sempre as áreas de Ciência da Computação e Engenharia de Software. Busco aprimorar as minhas habilidades na criação de aplicações web, transformando aprendizado em projetos práticos e fazer deles repósitorios para acompanhar a minha jornada.
+            Estou trilhando meu caminho como um Desenvolvedor Full Stack, explorando sempre as áreas de Ciência da Computação e Engenharia de Software. Busco aprimorar as minhas habilidades na criação de aplicações web, transformando aprendizado em projetos práticos e fazer deles repósitorios para acompanhar a minha evolução.
             <br>
           </sub>
         </p>
@@ -36,7 +36,7 @@
         </p>
         <p align="center">
           <sub>
-            Desde cedo, a computação faz parte da minha vida. Cresci em contato com computadores e, desenvolvi um grande interesse por Desenvolvimento de software, Programação, Tecnologia da Informação (TI) e pela constante evolução na tecnologia.
+            Desde cedo, a computação faz parte da minha vida. Cresci em contato com computadores e, desenvolvi um grande interesse por Desenvolvimento de software, Programação, Tecnologia da Informação (TI) e pelo constante desenvolvimento da tecnologia.
           </sub>
         </p>
       </td>
