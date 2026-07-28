@@ -17,32 +17,42 @@
   </h1>
 </div>
 
-<!-- História e interesse por tecnologia -->
+<!-- Imagem do programador pixelado / História e interesse por tecnologia -->
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="450px">
-        <p align="center">
-          <sub>
-            Estou trilhando meu caminho como um Desenvolvedor Full Stack, explorando sempre as áreas de Ciência da Computação e Engenharia de Software. Busco aprimorar as minhas habilidades na criação de aplicações web, transformando aprendizado em projetos práticos e fazer deles repósitorios para acompanhar a minha evolução.
-            <br>
-          </sub>
-        </p>
-        <p align="center">
-          <sub>
-          ⋆｡°✩ ──────────────────────────── ✩°｡⋆
-          </sub>
-        </p>
-        <p align="center">
-          <sub>
-            Desde cedo, a computação faz parte da minha vida. Cresci em contato com computadores e, desenvolvi um grande interesse por Desenvolvimento de software, Programação, Tecnologia da Informação (TI) e pelo constante desenvolvimento da tecnologia.
-          </sub>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+  <tr>
+    <td width="100%" align="left" valign="top">
+      <img src="./img/ThiThiPDev Pixelado.png" width="100%" alt="ThiThiPDev Pixelado"/>
+    </td>
+    <td width="100%" align="right" valign="middle">
+<table>
+  
+<tr>
+  <td width="450px">
+    <p align="center">
+      <sub>
+        Estou trilhando meu caminho como um Desenvolvedor Full Stack, explorando sempre as áreas de Ciência da Computação e Engenharia de Software. Busco aprimorar as minhas habilidades na criação de aplicações web, transformando aprendizado em projetos práticos e fazer deles repositórios para acompanhar a minha evolução. 
+      </sub> 
+</p>
+
+<p align="center">
+  <sub>
+    ⋆｡°✩ ──────────────────────────── ✩°｡⋆
+  </sub>
+</p>
+
+<p align="center">
+  <sub>
+    Desde cedo, a computação faz parte da minha vida. Cresci em contato com computadores e desenvolvi um grande interesse por Desenvolvimento de Software, Programação, Tecnologia da Informação (TI) e pelo constante desenvolvimento da tecnologia.
+  </sub>
+</p>
+
+</td>
+  </tr>
+    </table>
+    </td>
+  </tr>
+</table>
 
 <!-- =============================== -->
 <!-- Informações atuais -->
@@ -146,3 +156,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ThiThiPDev/ThiThiPDev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
+
+
+
+
