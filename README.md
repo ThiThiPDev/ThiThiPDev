@@ -1,4 +1,3 @@
-
 <!-- =============================== -->
 <!-- Header / Identidade visual -->
 <!-- Tema: Magia + Programação -->
@@ -23,14 +22,22 @@
 <div align="center">
   <table>
     <tr>
-      <td width="900px">
+      <td width="800px">
         <p align="center">
           <sub>
             Estou trilhando meu caminho como Desenvolvedor Full Stack, explorando as áreas de Ciência da Computação e Engenharia de Software.
             <br>
             Busco aprimorar continuamente minhas habilidades na criação de aplicações web, transformando aprendizado em projetos práticos.
-            <br><br>
-            Desde cedo, a computação faz parte da minha trajetória. Cresci em contato com computadores e, durante a adolescência, desenvolvi um grande interesse por Desenvolvimento de software, Programação, Tecnologia da Informação (TI) e pela constante evolução na tecnologia.
+          </sub>
+        </p>
+        <p align="center">
+          <sub>
+          ⋆｡°✩ ─────────────────────────────── ✩°｡⋆
+          </sub>
+        </p>
+        <p align="center">
+          <sub>
+            Desde cedo, a computação faz parte da minha vida. Cresci em contato com computadores e, durante a adolescência, desenvolvi um grande interesse por Desenvolvimento de software, Programação, Tecnologia da Informação (TI) e pela constante evolução na tecnologia.
           </sub>
         </p>
       </td>
@@ -48,7 +55,7 @@
   <sub>
   📚 Atualmente trabalho com Front-end e Back-end 📚
   <br>
-  👨🏻‍🎓 Atualmente estou me formando em HTML, CSS e JavaScript 👨🏻‍🎓
+  👨🏻‍🎓 Atualmente estou me formando em HTML, CSS e JS 👨🏻‍🎓
   <br>
   ⚡ Curiosidades: Amo café, leitura, Naruto & Harry Potter ⚡
   </sub>
