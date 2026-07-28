@@ -23,7 +23,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="800px">
+      <td width="900px">
         <p align="center">
           <sub>
             Estou trilhando meu caminho como Desenvolvedor Full Stack, explorando as áreas de Ciência da Computação e Engenharia de Software.
@@ -46,9 +46,9 @@
 
 <div align="center">
   <sub>
-  📚 Atualmente estou trabalhando com Front-end e Back-end 📚
+  📚 Atualmente trabalho com Front-end e Back-end 📚
   <br>
-  👨🏻‍🎓 Atualmente estou estudando e me formando em HTML, CSS e JavaScript 👨
+  👨🏻‍🎓 Atualmente estou me formando em HTML, CSS e JavaScript 👨🏻‍🎓
   <br>
   ⚡ Curiosidades: Amo café, leitura, Naruto & Harry Potter ⚡
   </sub>
