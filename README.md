@@ -36,7 +36,7 @@
         </p>
         <p align="center">
           <sub>
-            Desde cedo, a computação faz parte da minha vida. Cresci em contato com computadores e, durante a adolescência, desenvolvi um grande interesse por Desenvolvimento de software, Programação, Tecnologia da Informação (TI) e pela constante evolução na tecnologia.
+            Desde cedo, a computação faz parte da minha vida. Cresci em contato com computadores e, desenvolvi um grande interesse por Desenvolvimento de software, Programação, Tecnologia da Informação (TI) e pela constante evolução na tecnologia.
           </sub>
         </p>
       </td>
