@@ -22,7 +22,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="900px">
+      <td width="450px">
         <p align="center">
           <sub>
             Estou trilhando meu caminho como Desenvolvedor Full Stack, explorando as áreas de Ciência da Computação e Engenharia de Software.
@@ -32,7 +32,7 @@
         </p>
         <p align="center">
           <sub>
-          ⋆｡°✩ ─────────────────────────────── ✩°｡⋆
+          ⋆｡°✩ ───────────────────────────── ✩°｡⋆
           </sub>
         </p>
         <p align="center">
