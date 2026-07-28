@@ -1,3 +1,4 @@
+
 <!-- =============================== -->
 <!-- Header / Identidade visual -->
 <!-- Tema: Magia + Programação -->
@@ -22,13 +23,15 @@
 <div align="center">
   <table>
     <tr>
-      <td width="1000px">
+      <td width="800px">
         <p align="center">
-          Estou trilhando meu caminho como Desenvolvedor Full Stack, explorando as áreas de Ciência da Computação e Engenharia de Software.
-          <br>
-          Busco aprimorar continuamente minhas habilidades na criação de aplicações web, transformando aprendizado em projetos práticos.
-          <br><br>
-          Desde cedo, a computação faz parte da minha trajetória. Cresci em contato com computadores e, durante a adolescência, desenvolvi um grande interesse por Desenvolvimento de software, Programação, Tecnologia da Informação (TI) e pela constante evolução na tecnologia.
+          <sub>
+            Estou trilhando meu caminho como Desenvolvedor Full Stack, explorando as áreas de Ciência da Computação e Engenharia de Software.
+            <br>
+            Busco aprimorar continuamente minhas habilidades na criação de aplicações web, transformando aprendizado em projetos práticos.
+            <br><br>
+            Desde cedo, a computação faz parte da minha trajetória. Cresci em contato com computadores e, durante a adolescência, desenvolvi um grande interesse por Desenvolvimento de software, Programação, Tecnologia da Informação (TI) e pela constante evolução na tecnologia.
+          </sub>
         </p>
       </td>
     </tr>
@@ -42,11 +45,13 @@
 ##
 
 <div align="center">
+  <sub>
   📚 Atualmente estou trabalhando com Front-end e Back-end 📚
   <br>
   👨🏻‍🎓 Atualmente estou estudando e me formando em HTML, CSS e JavaScript 👨
   <br>
   ⚡ Curiosidades: Amo café, leitura, Naruto & Harry Potter ⚡
+  </sub>
 </div>
 
 ##
@@ -125,11 +130,12 @@
 
 </div>
 
-
 <!-- =============================== -->
 <!-- Animação Snake -->
 <!-- Contribuições do GitHub -->
 <!-- =============================== -->
+
+##
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ThiThiPDev/ThiThiPDev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
