@@ -36,11 +36,30 @@
 
   <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ThiThiPDev&layout=compact&langs_count=20&theme=midnight-purple" />
 
+</div><br>
+
+<!-- =============================== -->
+<!-- Tecnologias -->
+<!-- =============================== -->
+
+<div align="center">
+
+<!-- HTML5 - Estrutura web | ícone laranja -->
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="85" alt="HTML5"/>
+
+<!-- CSS3 - Estilização web | ícone azul -->
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="85" alt="CSS3"/>
+
+<!-- JavaScript - Programação web | ícone amarelo -->
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="85" alt="JavaScript"/>
+
 </div>
 
-##
 
-</div>
+</div><br>
 
 <div align="center">
   <table>
@@ -81,29 +100,7 @@
   <br>
   ⚡ Curiosidades: Amo café, leitura, Naruto & Harry Potter ⚡
   </sub>
-</div>
-
-##
-
-<!-- =============================== -->
-<!-- Tecnologias -->
-<!-- =============================== -->
-
-<div align="center">
-
-<!-- HTML5 - Estrutura web | ícone laranja -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="85" alt="HTML5"/>
-
-<!-- CSS3 - Estilização web | ícone azul -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="85" alt="CSS3"/>
-
-<!-- JavaScript - Programação web | ícone amarelo -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="85" alt="JavaScript"/>
-
-</div>
+</div><br>
 
 <!-- =============================== -->
 <!-- Redes sociais -->
@@ -114,26 +111,26 @@
 <!-- GitHub - ícone ciano | fundo cinza -->
 
   <a href="https://github.com/ThiThiPDev">
-    <img src="https://img.shields.io/badge/GITHUB-2D2D2D?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=2D2D2D" width="180" height="45" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-2D2D2D?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=2D2D2D" width="75" height="20" alt="GitHub"/>
   </a>
 
 <!-- Instagram - ícone roxo | fundo preto -->
 
   <a href="https://www.instagram.com/thiago_f.n/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E519FF&labelColor=0D1117" width="180" height="45" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E519FF&labelColor=0D1117" width="75" height="20" alt="Instagram"/>
   </a>
 
 <!-- Email - ícone vermelho | fundo branco -->
 
   <a href="mailto:tf91883@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF&color=FFFFFF" width="180" height="45" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF&color=FFFFFF" width="75" height="20" alt="Email"/>
   </a>
 
 <!-- LinkedIn - fundo azul | escrita branca -->
 
   <a href="https://www.linkedin.com/in/thiago-fernandes-do-nascimento-4b8737336/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" width="180" height="45" alt="LinkedIn"/>
-  </a>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" width="75" height="20" alt="LinkedIn"/>
+  </a><br>
 
 <!-- =============================== -->
 <!-- Animação Snake -->
