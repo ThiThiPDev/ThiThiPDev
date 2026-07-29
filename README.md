@@ -10,14 +10,14 @@
 </a>
 
 <div align="center">
-  <img src="./img/banner dev github.png" width="95%" alt="Banner Dev"/>
+  <img src="./img/banner dev github.png" width="90%" alt="Banner Dev"/>
 </div>
 
 <!-- Imagem do programador pixelado / História e interesse por tecnologia -->
 
 <div align="center">
   <img
-    src="./img/ThiThiPDev Pixelado.png" width="90%" alt="ThiThiPDev Pixelado"/>
+    src="./img/ThiThiPDev Pixelado.png" width="85%" alt="ThiThiPDev Pixelado"/>
 </div>
 
 <br>
@@ -30,11 +30,11 @@
 
 <!-- Estatísticas gerais do GitHub -->
 
-  <img width="80%" src="https://github-stats-extended.vercel.app/api?username=ThiThiPDev&rank_icon=github&custom_title=ThiThiPDev's%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple" />
+  <img width="75%" src="https://github-stats-extended.vercel.app/api?username=ThiThiPDev&rank_icon=github&custom_title=ThiThiPDev's%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple" /><br>
 
 <!-- Linguagens mais utilizadas -->
 
-  <img width="80%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ThiThiPDev&layout=compact&langs_count=20&theme=midnight-purple" />
+  <img width="75%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ThiThiPDev&layout=compact&langs_count=20&theme=midnight-purple" />
 
 </div><br>
 
@@ -134,4 +134,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ThiThiPDev/ThiThiPDev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
-
