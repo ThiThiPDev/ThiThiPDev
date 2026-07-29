@@ -22,9 +22,6 @@
 
 <br>
 
-##
-
-
 <!-- =============================== -->
 <!-- Estatísticas do GitHub -->
 <!-- =============================== -->
@@ -33,11 +30,11 @@
 
 <!-- Estatísticas gerais do GitHub -->
 
-  <img width="75%" src="https://github-stats-extended.vercel.app/api?username=ThiThiPDev&rank_icon=github&custom_title=ThiThiPDev's%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple" />
+  <img width="100%" src="https://github-stats-extended.vercel.app/api?username=ThiThiPDev&rank_icon=github&custom_title=ThiThiPDev's%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple" />
 
 <!-- Linguagens mais utilizadas -->
 
-  <img width="75%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ThiThiPDev&layout=compact&langs_count=20&theme=midnight-purple" />
+  <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ThiThiPDev&layout=compact&langs_count=20&theme=midnight-purple" />
 
 </div>
 
@@ -76,8 +73,6 @@
 <!-- Informações atuais -->
 <!-- =============================== -->
 
-##
-
 <div align="center">
   <sub>
   📚 Atualmente trabalho com Front-end e Back-end 📚
@@ -109,8 +104,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="85" alt="JavaScript"/>
 
 </div>
-
-##
 
 <!-- =============================== -->
 <!-- Redes sociais -->
