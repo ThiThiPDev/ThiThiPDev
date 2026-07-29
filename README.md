@@ -3,18 +3,14 @@
 <!-- Tema: Magia + Programação -->
 <!-- =============================== -->
 
-<div align="center">
-  <h1>
-  ⋆ ⭑ ★ 🧙🏻‍♂️ 🔮⚡ 🏰 👨🏻‍💻 ☕ 📚 🌌 🦊 🔥 🍜 ★ ⭑ ⋆  
-
-<!-- Animação de texto do perfil -->
+<!-- Animação de texto do perfil e Banner Dev -->
 
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=50&letterSpacing=2px&pause=1000&color=F707EA&center=true&vCenter=true&width=1000&lines=%E2%98%95+%3C+Welcome+to+my+profile+%2F%3E+%E2%98%95" alt="Typing SVG"/>
 </a>
 
-  ⋆ ⭑ ★ 🧙🏻‍♂️ 🔮⚡ 🏰 👨🏻‍💻 ☕ 📚 🌌 🦊 🔥 🍜 ★ ⋆ ⭑
-  </h1>
+<div align="center">
+  <img src="./img/banner dev github.png" width="100%" alt="Banner Dev"/>
 </div>
 
 <!-- Imagem do programador pixelado / História e interesse por tecnologia -->
@@ -25,6 +21,29 @@
 </div>
 
 <br>
+
+##
+
+
+<!-- =============================== -->
+<!-- Estatísticas do GitHub -->
+<!-- =============================== -->
+
+<div align="center">
+
+<!-- Estatísticas gerais do GitHub -->
+
+  <img width="75%" src="https://github-stats-extended.vercel.app/api?username=ThiThiPDev&rank_icon=github&custom_title=ThiThiPDev's%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple" />
+
+<!-- Linguagens mais utilizadas -->
+
+  <img width="75%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ThiThiPDev&layout=compact&langs_count=20&theme=midnight-purple" />
+
+</div>
+
+##
+
+</div>
 
 <div align="center">
   <table>
@@ -72,24 +91,6 @@
 ##
 
 <!-- =============================== -->
-<!-- Estatísticas do GitHub -->
-<!-- =============================== -->
-
-<div align="center">
-
-<!-- Estatísticas gerais do GitHub -->
-
-  <img width="50%" src="https://github-stats-extended.vercel.app/api?username=ThiThiPDev&rank_icon=github&custom_title=ThiThiPDev's%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple" />
-
-<!-- Linguagens mais utilizadas -->
-
-  <img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ThiThiPDev&layout=compact&langs_count=20&theme=midnight-purple" />
-
-</div>
-
-##
-
-<!-- =============================== -->
 <!-- Tecnologias -->
 <!-- =============================== -->
 
@@ -115,9 +116,7 @@
 <!-- Redes sociais -->
 <!-- =============================== -->
 
-
 <div align="center">
-
 
 <!-- GitHub - ícone ciano | fundo cinza -->
 
@@ -143,8 +142,6 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" width="180" height="45" alt="LinkedIn"/>
   </a>
 
-</div>
-
 <!-- =============================== -->
 <!-- Animação Snake -->
 <!-- Contribuições do GitHub -->
@@ -155,8 +152,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ThiThiPDev/ThiThiPDev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
-
-
-
-
 
