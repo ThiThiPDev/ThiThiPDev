@@ -46,15 +46,15 @@
 
 <!-- HTML5 - Estrutura web | ícone laranja -->
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="85" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="75" alt="HTML5"/>
 
 <!-- CSS3 - Estilização web | ícone azul -->
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="85" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="75" alt="CSS3"/>
 
 <!-- JavaScript - Programação web | ícone amarelo -->
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="85" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="75" alt="JavaScript"/>
 
 </div>
 
@@ -108,29 +108,53 @@
 
 <div align="center">
 
-<!-- GitHub - ícone ciano | fundo cinza -->
-
+  <!-- GitHub -->
   <a href="https://github.com/ThiThiPDev">
-    <img src="https://img.shields.io/badge/GITHUB-2D2D2D?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=2D2D2D" width="75" height="20" alt="GitHub"/>
+    <img 
+      src="https://img.shields.io/badge/GITHUB-2D2D2D?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=2D2D2D" 
+      width="140" 
+      height="28" 
+      alt="GitHub"
+    />
   </a>
 
-<!-- Instagram - ícone roxo | fundo preto -->
+  &nbsp;&nbsp;
 
+  <!-- Instagram -->
   <a href="https://www.instagram.com/thiago_f.n/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E519FF&labelColor=0D1117" width="75" height="20" alt="Instagram"/>
+    <img 
+      src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E519FF&labelColor=0D1117" 
+      width="140" 
+      height="28" 
+      alt="Instagram"
+    />
   </a>
 
-<!-- Email - ícone vermelho | fundo branco -->
+  &nbsp;&nbsp;
 
+  <!-- Email -->
   <a href="mailto:tf91883@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF&color=FFFFFF" width="75" height="20" alt="Email"/>
+    <img 
+      src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF&color=FFFFFF" 
+      width="140" 
+      height="28" 
+      alt="Email"
+    />
   </a>
 
-<!-- LinkedIn - fundo azul | escrita branca -->
+  &nbsp;&nbsp;
 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/thiago-fernandes-do-nascimento-4b8737336/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" width="75" height="20" alt="LinkedIn"/>
-  </a><br>
+    <img 
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" 
+      width="140" 
+      height="28" 
+      alt="LinkedIn"
+    />
+  </a>
+
+</div>
 
 <!-- =============================== -->
 <!-- Animação Snake -->
