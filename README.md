@@ -120,7 +120,7 @@
     <img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF&color=FFFFFF" width="100" height="25" alt="Email"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/thiago-fernandes-do-nascimento-4b8737336/">
+  <a href="https://www.linkedin.com/in/thithipdev/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" width="100" height="25" alt="LinkedIn"/>
   </a>
 
