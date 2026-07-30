@@ -10,7 +10,7 @@
 </a>
 
 <div align="center">
-  <img src="./img/banner dev github.png" width="90%" alt="Banner Dev"/>
+  <img src="./img/Banner Dev GitHub.png" width="90%" alt="Banner Dev"/>
 </div>
 
 <!-- Imagem do programador pixelado / História e interesse por tecnologia -->
